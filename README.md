@@ -1,6 +1,7 @@
 # cl3native-blog
 
-## Getting started
+## Running it
+### draft mode
 ```
 hugo server -D
 ```
