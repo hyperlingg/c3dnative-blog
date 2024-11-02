@@ -3,7 +3,7 @@ baseURL = "https://example.com"
 theme = "hugo-simple"
 languageCode = "en"                # zh-Hans
 title = "Hugo Simple"
-copyright = "© 2024 Shaolong Chen"
+copyright = "© 2024 Jonas Lingg"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
@@ -41,8 +41,8 @@ hideMadeWithLine = false
 hideRSSLink = false
 
 [params.author]
-name = "Shaolong Chen"
-email = "shaolong.chen@outlook.it"
+name = "Jonas Lingg"
+email = "TBD"
 
 [[menu.main]]
 name = "Home"
@@ -52,10 +52,6 @@ weight = 10
 name = "Blog"
 pageRef = "/blog"
 weight = 20
-[[menu.main]]
-name = "Content"
-pageRef = "/content"
-weight = 10
 
 [services.rss]
 limit = 42
